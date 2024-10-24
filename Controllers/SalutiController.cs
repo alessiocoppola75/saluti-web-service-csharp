@@ -14,14 +14,14 @@ namespace Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public IActionResult TestConnex()
         {
-            return Ok(new InfoMsg("101", $"Saluti sono la tua prima web api csharp in Azure App Services aggiornata su visualcode"));
+            return Ok(new InfoMsg("101", $"Saluti sono la tua prima web api csharp in Azure App Services aggiornata su visualcode via github"));
         }
 
         [HttpGet("{Nome}")]
         [ProducesResponseType(StatusCodes.Status200OK)]
         public ActionResult<InfoMsg> getSaluti2(string Nome)
         {
-            return Ok(new InfoMsg("101", $"Saluti {Nome}, sono la tua web api csharp in Azure App Services aggiornata su visualcode"));
+            return Ok(new InfoMsg("101", $"Saluti {Nome}, sono la tua web api csharp in Azure App Services aggiornata su visualcode via github"));
         }
 
              
@@ -29,7 +29,7 @@ namespace Controllers
         [ProducesResponseType(StatusCodes.Status200OK)]
         public ActionResult<InfoMsg> getSaluti3(string Nome, string version)
         {
-            return Ok(new InfoMsg("101", $"Saluti {Nome}, sono la versione {version} della web api aggiornata su visualcode"));
+            return Ok(new InfoMsg("101", $"Saluti {Nome}, sono la versione {version} della web api aggiornata su visualcode via github"));
         }
     
     
