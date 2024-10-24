@@ -1,0 +1,7 @@
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.exe
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\appsettings.json
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.dll
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.deps.json
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.runtimeconfig.json
+C:\Users\UTENTE\Downloads\saluti-web-service_vscode\saluti-web-service\bin\Release\net6.0\publish\saluti-web-service.pdb

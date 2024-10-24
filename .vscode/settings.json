@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net6.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/feae1884-da3d-49d6-a860-873a64604022/resourceGroups/TEST_Azure/providers/Microsoft.Web/sites/SalutiAPI"
+}
